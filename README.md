@@ -1,9 +1,8 @@
-#Jeffrey Xiao's HCI Project Portfolio
-##[Good Design - WPI Library Page]("https://medium.com/@jzhang569/good-design-wpi-library-page-1b17fbfdae3")
-<a href="https://medium.com/@jzhang569/bad-design-wpi-athletics-t-shirt-advertisement-36c5c6d549cc">Visit our HTML tutorial</a>
-<a href="https://medium.com/@jzhang569/technocopia-mobile-redesign-for-teens-6dfc9b94c19c">Design for Others: Technocopia</a>
-<a href="https://www.w3schools.com/html/">Visit our HTML tutorial</a>
-<a href="https://www.w3schools.com/html/">Visit our HTML tutorial</a>
+# Jeffrey Xiao's HCI Project Portfolio
+## [Good Design - WPI Library Page]("https://medium.com/@jzhang569/good-design-wpi-library-page-1b17fbfdae3")
+## [Bad Design - WPI Athletics T-Shirt Advertisement]("https://medium.com/@jzhang569/bad-design-wpi-athletics-t-shirt-advertisement-36c5c6d549cc")
+## [Design for Others - Technocopia]("https://medium.com/@jzhang569/technocopia-mobile-redesign-for-teens-6dfc9b94c19c")
+## [Design for Understanding - 2016 Election Data Representation]("https://www.w3schools.com/html/")
 <a href="https://www.w3schools.com/html/">Visit our HTML tutorial</a>
 <a href="https://www.w3schools.com/html/">Visit our HTML tutorial</a>
 
