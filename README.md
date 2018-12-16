@@ -1,5 +1,9 @@
-# Jeffrey Xiao's HCI Project Portfolio
-### This page contains links to all of my projects throughout my Human-Computer Interactions Course.
+# Jeffrey Xiao
+## Computer Science Major, WPI 2020
+## Owner of the Fey Foundry, an online art store
+## Worked at Hewlett-Packard Enterprise and Lipson Robotics
+
+### This page contains links to all of my projects throughout my Human-Computer Interactions Course as well as the final design manifesto describing all of the 
 
 ## Good Design - WPI Library Page
 ### -[Medium post](https://medium.com/@jzhang569/good-design-wpi-library-page-1b17fbfdae3)
