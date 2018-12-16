@@ -1,7 +1,7 @@
 # Jeffrey Xiao
-## Computer Science Major, WPI 2020
-## Owner of the Fey Foundry, an online art store
-## Worked at Hewlett-Packard Enterprise and Lipson Robotics
+Computer Science Major, WPI 2020
+Owner of the Fey Foundry, an online art store
+Worked at Hewlett-Packard Enterprise and Lipson Robotics
 
 ### This page contains links to all of my projects throughout my Human-Computer Interactions Course as well as the final design manifesto describing all of the 
 
