@@ -3,7 +3,7 @@
 #### Owner of the Fey Foundry, an online art store  
 #### Worked at Hewlett-Packard Enterprise and Lipson Robotics
 
-### This page contains links to all of my projects throughout my Human-Computer Interactions Course as well as the final design manifesto describing all of the 
+### This page contains links to all of my projects throughout my Human-Computer Interactions Course as well as the final design manifesto reflecting on the term and the knowledge I acquired.
 
   
 # Human-Computer Interactions Design Manifesto  
@@ -24,5 +24,7 @@
 ### -[Video Link](https://youtu.be/KVKjx0HsN3A)
 ### -[Medium post](https://medium.com/@jzhang569/design-for-wellbeing-using-technology-to-improve-students-lives-b5a71b05013)
 ## Design for Another World - Manga Music
-### -[Glitch repository](https://glitch.com/edit/#!/manga-music)
+### -[Glitch repository](https://glitch.com/edit/#!/manga-music)  
 ### -[Medium post](https://medium.com/@zachberry_90708/design-for-another-world-a632987b95f3)
+  
+### [Etsy store](https://www.etsy.com/shop/feyfoundry)
