@@ -1,10 +1,14 @@
 # Jeffrey Xiao
-Computer Science Major, WPI 2020
-Owner of the Fey Foundry, an online art store
-Worked at Hewlett-Packard Enterprise and Lipson Robotics
+#### Computer Science Major, WPI 2020  
+#### Owner of the Fey Foundry, an online art store  
+#### Worked at Hewlett-Packard Enterprise and Lipson Robotics
 
 ### This page contains links to all of my projects throughout my Human-Computer Interactions Course as well as the final design manifesto describing all of the 
 
+  
+# Human-Computer Interactions Design Manifesto  
+  
+# Human-Computer Interactions Links
 ## Good Design - WPI Library Page
 ### -[Medium post](https://medium.com/@jzhang569/good-design-wpi-library-page-1b17fbfdae3)
 ## Bad Design - WPI Athletics T-Shirt Advertisement
