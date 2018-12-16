@@ -13,24 +13,6 @@
 ### [Github Repository](https://github.com/jyxiao1/hci-wellbeing)
 ### -[Video Link](https://youtu.be/KVKjx0HsN3A)
 ### -[Medium post](https://medium.com/@jzhang569/design-for-wellbeing-using-technology-to-improve-students-lives-b5a71b05013)
-## Design for Another World - Magma Music
-### -[Glitch repository](https://glitch.com/edit/#!/magma-music)
+## Design for Another World - Manga Music
+### -[Glitch repository](https://glitch.com/edit/#!/manga-music)
 ### -[Medium post](https://medium.com/@zachberry_90708/design-for-another-world-a632987b95f3)
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jyxiao1/hci-project-portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
