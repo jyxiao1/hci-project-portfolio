@@ -6,9 +6,10 @@
 ### This page contains links to all of my projects throughout my Human-Computer Interactions Course as well as the final design manifesto reflecting on the term and the knowledge I acquired.
 
   
-## [Human-Computer Interactions Design Manifesto]
   
 # Human-Computer Interactions Links
+## Human-Computer Interactions Design Manifesto
+### -[Medium post](https://medium.com/@jzhang569/hci-design-manifesto-cbf7b08448de)
 ## Good Design - WPI Library Page
 ### -[Medium post](https://medium.com/@jzhang569/good-design-wpi-library-page-1b17fbfdae3)
 ## Bad Design - WPI Athletics T-Shirt Advertisement
