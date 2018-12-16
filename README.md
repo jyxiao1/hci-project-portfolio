@@ -6,7 +6,7 @@
 ### This page contains links to all of my projects throughout my Human-Computer Interactions Course as well as the final design manifesto reflecting on the term and the knowledge I acquired.
 
   
-# Human-Computer Interactions Design Manifesto  
+## [Human-Computer Interactions Design Manifesto]
   
 # Human-Computer Interactions Links
 ## Good Design - WPI Library Page
@@ -25,6 +25,6 @@
 ### -[Medium post](https://medium.com/@jzhang569/design-for-wellbeing-using-technology-to-improve-students-lives-b5a71b05013)
 ## Design for Another World - Manga Music
 ### -[Glitch repository](https://glitch.com/edit/#!/manga-music)  
-### -[Medium post](https://medium.com/@zachberry_90708/design-for-another-world-a632987b95f3)
+### -[Medium post](https://medium.com/@zachberry_90708/design-for-another-world-a632987b95f3)  
   
-### [Etsy store](https://www.etsy.com/shop/feyfoundry)
+# [Etsy store](https://www.etsy.com/shop/feyfoundry)
