@@ -1,4 +1,6 @@
 # Jeffrey Xiao's HCI Project Portfolio
+### This page contains links to all of my projects throughout my Human-Computer Interactions Course.
+
 ## Good Design - WPI Library Page
 ### -[Medium post](https://medium.com/@jzhang569/good-design-wpi-library-page-1b17fbfdae3)
 ## Bad Design - WPI Athletics T-Shirt Advertisement
@@ -10,7 +12,7 @@
 ## Design for Tension - Understanding Automation
 ### -[Medium post](https://medium.com/@jzhang569/design-for-understanding-representation-of-the-2016-election-data-593c2ed41d74)
 ## Design for Wellbeing - Using Technology to Improve Students' Lives
-### [Github Repository](https://github.com/jyxiao1/hci-wellbeing)
+### -[Github Repository](https://github.com/jyxiao1/hci-wellbeing)
 ### -[Video Link](https://youtu.be/KVKjx0HsN3A)
 ### -[Medium post](https://medium.com/@jzhang569/design-for-wellbeing-using-technology-to-improve-students-lives-b5a71b05013)
 ## Design for Another World - Manga Music
